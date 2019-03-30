@@ -34,7 +34,7 @@
     "acorn": "^6.0.4",
     "assert-rejects": "^1.0.0",
     "async": "^2.6.0",
-    "aws-sdk": "^2.202.0",
+    "aws-sdk": "^2.432.0",
     "coveralls": "^3.0.0",
     "eslint": "^5.0.0",
     "eslint-config-prettier": "^4.1.0",
